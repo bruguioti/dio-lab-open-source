@@ -21,7 +21,3 @@ Hello! My name is Bruna Coutinho and I am an enthusiastic technology student. Cu
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bruguioti&theme=transparent&bg_color=ffffff&border_color=7f28b5&show_icons=true&icon_color=7f28b5&title_color=7f28b5&text_color=0b0a12)
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bruguioti&layout=compact&bg_color=0b0a12&border_color=0b0a12&title_color=7f28b5&text_color=FFF)
 
-### Meus Principais Desafios de Projeto DIO
-[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=elidianaandrade&repo=dio-lab-open-source&bg_color=0b0a12&border_color=0b0a12&show_icons=true&icon_color=ffffff&title_color=7f28b5&text_color=FFF)](https://github.com/elidianaandrade/dio-lab-open-source)
-[![Repo DIO Roadmaps](https://github-readme-stats.vercel.app/api/pin/?username=digitalinnovationone&repo=roadmaps&bg_color=0b0a12&border_color=0b0a12&show_icons=true&icon_color=ffffff&title_color=7f28b5&text_color=FFF)](https://github.com/digitalinnovationone/roadmaps)
-
