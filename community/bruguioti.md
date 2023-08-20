@@ -5,7 +5,7 @@
 Hello! My name is Bruna Coutinho and I am an enthusiastic technology student. Currently, I am focused on the Systems Analysis and Development course, where I am improving my skills to understand, design and create innovative technological solutions. My passion for the world of programming and technology motivates me to explore different aspects of software development, while constantly looking to learn and apply new knowledge to face the challenges of the ever-evolving digital world.
 
 ### Connect with me
-[![Perfil DIO](https://img.shields.io/badge/-My%20profile%20on%20DIO-1e192c?style=for-the-badge)](https://web.dio.me/users/brunaguioti2000/)
+[![Perfil DIO](https://img.shields.io/badge/-My%20profile%20on%20DIO-7f28b5?style=for-the-badge)](https://web.dio.me/users/brunaguioti2000/)
 [![E-mail](https://img.shields.io/badge/-Email-7f28b5?style=for-the-badge&logo=microsoft-outlook&logoColor=)](bruguioti:bruguioti@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-7f28b5?style=for-the-badge&logo=linkedin&logoColor=)](https://www.linkedin.com/in/bruna-coutinho-868b0a275/)
 
